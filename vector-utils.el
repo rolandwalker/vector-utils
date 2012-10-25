@@ -108,7 +108,7 @@
 ;;; Code:
 ;;
 
-;;; requires
+;;; requirements
 
 ;; for assert, subseq
 (require 'cl)
