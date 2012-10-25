@@ -26,9 +26,9 @@ This library has no user-level interface; it is only useful for
 programming in Emacs Lisp.
 
 Furthermore (when programming in Emacs Lisp), be aware that the
-modification of a vector is not permitted: only vector elements may
-be changed.  All "modification" operations herein can only work by
-making copies, which is not efficient.
+modification of a vector is not permitted: only vector *elements*
+may be changed.  All "modification" operations herein can only
+work by making copies, which is not efficient.
 
 The following functions are provided:
 
