@@ -120,7 +120,7 @@
   "Vector-manipulation utility functions."
   :version "0.1.0"
   :link '(emacs-commentary-link :tag "Commentary" "vector-utils")
-  :link '(url-link :tag "Github" "http://github.com/rolandwalker/vector-utils")
+  :link '(url-link :tag "GitHub" "http://github.com/rolandwalker/vector-utils")
   :link '(url-link :tag "EmacsWiki" "http://emacswiki.org/emacs/VectorUtils")
   :prefix "vector-utils-"
   :group 'extensions)
