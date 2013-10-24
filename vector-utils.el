@@ -5,8 +5,8 @@
 ;; Author: Roland Walker <walker@pobox.com>
 ;; Homepage: http://github.com/rolandwalker/vector-utils
 ;; URL: http://raw.github.com/rolandwalker/vector-utils/master/vector-utils.el
-;; Version: 0.1.0
-;; Last-Updated: 15 Oct 2012
+;; Version: 0.1.2
+;; Last-Updated: 24 Oct 2013
 ;; EmacsWiki: VectorUtils
 ;; Keywords: extensions
 ;;
@@ -118,7 +118,7 @@
 ;;;###autoload
 (defgroup vector-utils nil
   "Vector-manipulation utility functions."
-  :version "0.1.0"
+  :version "0.1.2"
   :link '(emacs-commentary-link :tag "Commentary" "vector-utils")
   :link '(url-link :tag "GitHub" "http://github.com/rolandwalker/vector-utils")
   :link '(url-link :tag "EmacsWiki" "http://emacswiki.org/emacs/VectorUtils")
