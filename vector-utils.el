@@ -1,6 +1,6 @@
 ;;; vector-utils.el --- Vector-manipulation utility functions
 ;;
-;; Copyright (c) 2012 Roland Walker
+;; Copyright (c) 2012-13 Roland Walker
 ;;
 ;; Author: Roland Walker <walker@pobox.com>
 ;; Homepage: http://github.com/rolandwalker/vector-utils
