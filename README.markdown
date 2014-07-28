@@ -8,7 +8,7 @@ Vector-manipulation utility functions for Emacs.
 Quickstart
 ----------
 
-```lisp
+```elisp
 (require 'vector-utils)
  
 (vector-utils-flatten '[1 2 [3 4 [5 6 7]]])
@@ -42,7 +42,7 @@ The following functions are provided:
 To use vector-utils, place the vector-utils.el library somewhere
 Emacs can find it, and add the following to your ~/.emacs file:
 
-```lisp
+```elisp
 (require 'vector-utils)
 ```
 
