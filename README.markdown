@@ -54,4 +54,5 @@ Emacs can find it, and add the following to your ~/.emacs file:
 No external dependencies
 
 ## See Also
-[Why you should not modify vectors](http://emacswiki.org/emacs/VectorUsage)
+
+* [Why you should not modify vectors](http://emacswiki.org/emacs/VectorUsage)
