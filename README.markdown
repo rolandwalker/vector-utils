@@ -1,12 +1,10 @@
 [![Build Status](https://secure.travis-ci.org/rolandwalker/vector-utils.png?branch=master)](http://travis-ci.org/rolandwalker/vector-utils)
 
-Overview
-========
+# Overview
 
 Vector-manipulation utility functions for Emacs.
 
-Quickstart
-----------
+## Quickstart
 
 ```elisp
 (require 'vector-utils)
@@ -18,8 +16,7 @@ Quickstart
 ;; 3
 ```
 
-vector-utils
-------------
+## vector-utils
 
 Vector-utils is a collection of functions for vector manipulation.
 This library has no user-level interface; it is only useful for
@@ -46,8 +43,7 @@ Emacs can find it, and add the following to your ~/.emacs file:
 (require 'vector-utils)
 ```
 
-Compatibility and Requirements
-------------------------------
+## Compatibility and Requirements
 
 	GNU Emacs version 24.4-devel     : yes, at the time of writing
 	GNU Emacs version 24.3           : yes
@@ -57,6 +53,5 @@ Compatibility and Requirements
 
 No external dependencies
 
-See Also
---------
+## See Also
 [Why you should not modify vectors](http://emacswiki.org/emacs/VectorUsage)
