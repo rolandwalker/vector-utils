@@ -36,8 +36,8 @@ The following functions are provided:
 	vector-utils-insert-before-pos
 	vector-utils-insert-after-pos
 
-To use vector-utils, place the vector-utils.el library somewhere
-Emacs can find it, and add the following to your ~/.emacs file:
+To use vector-utils, place the `vector-utils.el` library somewhere
+Emacs can find it, and add the following to your `~/.emacs` file:
 
 ```elisp
 (require 'vector-utils)
