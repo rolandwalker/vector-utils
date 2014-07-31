@@ -4,6 +4,11 @@
 
 Vector-manipulation utility functions for Emacs.
 
+ * [Quickstart](#quickstart)
+ * [vector-utils](#vector-utils)
+ * [Compatibility and Requirements](#compatibility-and-requirements)
+ * [See Also](#see-also)
+
 ## Quickstart
 
 ```elisp
@@ -55,4 +60,4 @@ No external dependencies
 
 ## See Also
 
-* [Why you should not modify vectors](http://emacswiki.org/emacs/VectorUsage)
+ * [Why you should not modify vectors](http://emacswiki.org/emacs/VectorUsage)
